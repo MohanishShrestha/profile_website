@@ -1,3 +1,3 @@
-# Thank you for watching video. You can easily download website and use it.
+# Hosting using free domain name, CloudFlare
 
 ### Source: startbootstrap.com
